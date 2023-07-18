@@ -1,5 +1,5 @@
 # Landing Page
-A quick CSS layout for The Odin Project
+A quick CSS layout
 
 **Link to project:** this project is not hosted at this time, below are a couple screenshots of the project
 
